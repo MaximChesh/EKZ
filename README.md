@@ -18,7 +18,7 @@
 1. Шаг<br>
 Проверить, если на компьютере программное обеспечение в ввиде Visual Studio. Если её нет, то необходимо перейти предыдущему пункту и прочесть его. 
 2. Шаг<br>
-После необходимо перейти на проект [EKZ](https://github.com/mitiay1973/maska)
+После необходимо перейти на проект [EKZ](https://github.com/MaximChesh/EKZ)
 3. Шаг<br>
 Перейдя на проект необходимо нажать на зелёную кнопку Code
 ![Проект на GitHub](https://sun9-60.userapi.com/impg/1bZeOSgWhk8xtSZ74h11Q_-reWGUXLBCSt0Oow/fdHX7uBWcbM.jpg?size=1002x281&quality=96&sign=849903628027a4362bbf2184c594bfad&type=album)
